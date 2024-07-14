@@ -11,13 +11,16 @@ This project is a simple Character Training Game implemented in TypeScript. The 
 * Battling: Decreases the character's life, energy, and defense through simulated battles.
 * Status Display: Shows the current status of the character including name, energy, attack, and defense.
 * Death Check: Checks if the character's life has reached zero and prints a death message if so.
-Game Loop
+  
+**Game Loop**
+
 * The game runs in a loop where the player can choose actions from a menu.
 * Actions include training attack, training defense, resting, battling, checking status, and exiting the game.
 * The game continues until the player chooses to exit or the character dies.
 
 **Usage**
-Start the Game: The game starts with the creation of a character named Lorien with initial attributes.
-Choose Actions: The player is prompted to choose actions from the menu to train the character or engage in battles.
-View Status: The player can check the character's status at any time to see the current stats.
-Exit: The player can exit the game by selecting the exit option.
+
+1. Start the Game: The game starts with the creation of a character named Lorien with initial attributes.
+2. Choose Actions: The player is prompted to choose actions from the menu to train the character or engage in battles.
+3. View Status: The player can check the character's status at any time to see the current stats.
+4. Exit: The player can exit the game by selecting the exit option.
